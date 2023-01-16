@@ -1,3 +1,7 @@
+#AUTHOR : ABIR RAHMAN 
+#GITHUB : D4rk-B0y 
+#DON'T TRY TO DECODE;)
+
 exec("".join(map(chr,[int("".join(str({':(': 4,
  ':)': 0,
  ':/': 7,
