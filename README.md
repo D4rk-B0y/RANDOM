@@ -18,7 +18,7 @@
 
 `💚 cd RANDOM`
 
-`💚 python mew2.0.py`
+`💚 python best-rnd-green.py`
 
 -------------------------------------------
 
